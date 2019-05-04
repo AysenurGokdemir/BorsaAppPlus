@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BorsaAppPlus</string>
+    <string name="altin">Altın</string>
+    <string name="oncekiKapanis">Önceki Kapanış</string>
+    <string name="alis">Alış : </string>
+    <string name="satis">Satış : </string>
+    <string name="tarih">Tarih : </string>
+    <string name="gr_altin">Gr Altın</string>
+    <string name="tam_altin">Tam Altın</string>
+    <string name="tam_altin_eski">Tam Altın Eski</string>
+    <string name="yarim_altin">Yarım Altın</string>
+    <string name="yarim_altin_eski">Yarım Altın Eski</string>
+    <string name="ceyrek_altin">Çeyrek Altın</string>
+    <string name="ceyrek_altin_eski">Çeyrek Altın Eski</string>
+    <string name="ata_altin">Ata Cumhuriyet</string>
+    <string name="ata_eski">Ata Cumhuriyet Eski</string>
+    <string name="dolar">Dolar</string>
+    <string name="euro">Euro</string>
+    <string name="gumus">Gümüş</string>
+
+</resources>
